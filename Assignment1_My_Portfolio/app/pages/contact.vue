@@ -20,6 +20,7 @@
 
             <button class="subBtn">Submit</button>
         </form>
+        <p class="email">Contact Me: biancakritzman@gmail.com</p>
     </div>
     </div>
 
@@ -68,4 +69,12 @@
     border: 3px solid rgb(6, 99, 95);
 }
 
+.email {
+    color: rgb(6, 99, 95);
+    background-color: rgba(255,255,255,0.5);
+    margin-left: 10px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+}
 </style>
