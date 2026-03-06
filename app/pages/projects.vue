@@ -50,7 +50,7 @@ const getRepo = async (repoName) => {
         <br>
         <div class="head1">
             <h2 >Project 3</h2>
-            <p>Developed an Airline's Website</p>
+            <p>Developed an Airline Website</p>
         </div>
     </div>
 </template>
